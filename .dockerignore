@@ -1,0 +1,8 @@
+target
+data
+.settings
+.classpath
+.project
+.idea
+*.iml
+.git
